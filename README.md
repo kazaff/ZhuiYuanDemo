@@ -9,7 +9,7 @@
 
 本项目为测试学习目的，并没有优雅的代码组织，见谅～
 
-更多总结，可以参考我的[博客](http://blog.kazaff.me)。
+更多总结，可以参考我的[博客](http://blog.kazaff.me/2015/12/21/React-Native-Android%E5%B0%8F%E7%BB%93/)。
 
 
 ###TODO

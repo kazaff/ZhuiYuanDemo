@@ -1,0 +1,16 @@
+{
+  "name": "ZhuiYuan",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.16.0",
+    "react-native-fileupload": "^1.1.0",
+    "react-native-icons": "^0.7.0",
+    "react-native-image-picker": "^0.10.0",
+    "react-native-scrollable-tab-view": "^0.3.2",
+    "react-native-webview-android": "^1.0.11"
+  }
+}
